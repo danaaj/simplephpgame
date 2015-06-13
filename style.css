@@ -1,0 +1,32 @@
+td {
+	border: black thin solid;
+}
+#header {
+    background-color:#257e78;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#links {
+    line-height:35px;
+    background-color:#40b8af;
+    height:250px;
+    width:90px;
+    float:left;
+    padding:10px; 
+}
+#results {
+    width:350px;
+    float:left;
+    padding:15px; 
+}
+#footer {
+    background-color:#257e78;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:10px; 
+}
+#error1 {
+	color:red;
+}
